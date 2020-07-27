@@ -1,8 +1,8 @@
 ### Hi I'm Dean 👋
 
-:mag_right: Currently looking for entry-level or graduate roles in Software Engineering. Available to work immediately. 
+🔎 Currently looking for entry-level or graduate roles in Software Engineering. Available to work immediately. 
 
-📫 How to reach me: linkedin.com/in/deanlynch97/
+📫 How to reach me: [LinkedIn](linkedin.com/in/deanlynch97/)
 
 <!--
 **lynchdean/lynchdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
