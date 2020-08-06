@@ -1,10 +1,12 @@
 ### Hi I'm Dean 👋
 
-🔎 Currently looking for entry-level or graduate roles in Software Engineering. Available to work immediately. 
+💻 I'm a DCU Computer Applications & Software Engineering Graduate living in Dublin :ireland: 
+
+🔎 Currently looking for entry-level or graduate roles in Software Engineering. Available to work immediately
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deanlynch97/)
 
-🌍 [deanlynch.xyz](https://www.deanlynch.xyz) is my personal webiste, although it is currently a work in progress. You can find the repo for it below.
+🌍 [deanlynch.xyz](https://www.deanlynch.xyz) is my personal webiste, although it is currently a work in progress. You can find the [repo](https://github.com/lynchdean/deanlynch-xyz) for it below in my pinned repos! 
 
 <!--
 **lynchdean/lynchdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
