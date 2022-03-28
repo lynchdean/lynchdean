@@ -2,9 +2,7 @@
 
 💻 I'm a DCU Computer Applications & Software Engineering Graduate living in Dublin :ireland: 
 
-👨‍💻 Currently working as a Software Test Engineer in the telecommunications industry, developing SMS firewall solutions.
-
-🔎 Seeking a Software Engineering role in an environment in which I can apply my skills and challenge myself, as well as learn and gain experience.
+👨‍💻 Currently working as a Software Engineer in the telecommunications industry, developing SMS firewall solutions.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deanlynch97/)
 
