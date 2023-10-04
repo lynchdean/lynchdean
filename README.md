@@ -1,8 +1,8 @@
 ### Hi I'm Dean 👋
 
-💻 I'm a DCU Computer Applications & Software Engineering Graduate living in Dublin :ireland: 
+👨‍💻 Recently working as a Software Engineer in the telecommunications industry, developing SMS firewall solutions.
 
-👨‍💻 Currently working as a Software Engineer in the telecommunications industry, developing SMS firewall solutions.
+💻 I'm a DCU Computer Applications & Software Engineering Graduate living in Dublin :ireland: 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deanlynch97/)
 
