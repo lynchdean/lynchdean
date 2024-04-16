@@ -1,6 +1,6 @@
 ### Hi I'm Dean 👋
 
-👨‍💻 Recently working as a Software Engineer in the telecommunications industry, developing SMS firewall solutions.
+👨‍💻 Currently searching for a Software Engineering position with remote-first a priority.
 
 💻 I'm a DCU Computer Applications & Software Engineering Graduate living in Dublin :ireland: 
 
