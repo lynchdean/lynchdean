@@ -1,6 +1,6 @@
 ### Hi I'm Dean 👋
 
-👨‍💻 Currently searching for a Software Engineering position with remote-first a priority.
+👨‍💻 Currently searching for a Software Engineering position with fully remote options.
 
 💻 I'm a DCU Computer Applications & Software Engineering Graduate living in Dublin :ireland: 
 
