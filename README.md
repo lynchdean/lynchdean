@@ -1,8 +1,10 @@
 ### Hi I'm Dean 👋
 
+:ireland: Based in Dublin IE
+
 👨‍💻 Currently searching for a Software Engineering position with fully remote options.
 
-💻 I'm a DCU Computer Applications & Software Engineering Graduate living in Dublin :ireland: 
+💻 Graduated from DCU Computer Applications & Software Engineering 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deanlynch97/)
 
