@@ -2,7 +2,7 @@
 
 :ireland: Based in Dublin IE
 
-👨‍💻 Currently searching for a Software Engineering position with fully remote options.
+👨‍💻 Currently searching for a Software Engineering position with fully remote options
 
 💻 Graduated from DCU Computer Applications & Software Engineering 
 
