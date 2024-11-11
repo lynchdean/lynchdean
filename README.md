@@ -1,5 +1,7 @@
 ### Hi I'm Dean 👋
 
+[deanlynch.info](deanlynch.info)
+
 :ireland: Based in Dublin IE
 
 👨‍💻 Currently searching for a Software Engineering position with fully remote or flexible WFH options
