@@ -1,6 +1,6 @@
 ### Hi I'm Dean 👋
 
-[deanlynch.info](deanlynch.info)
+[deanlynch.info](https://deanlynch.info)
 
 :ireland: Based in Dublin IE
 
